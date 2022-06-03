@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">mvvm</string>
+    <string name="button1">Botón 1</string>
+    <string name="button2">Botón 2</string>
+    <string name="button3">Botón 3</string>
+    <string name="button4">Botón 4</string>
+    <string name="button5">Botón 5</string>
+    <string name="button6">Botón 6</string>
+    <string name="button7">Botón 7</string>
+    <string name="button8">Botón 8</string>
+    <string name="button9">Botón 9</string>
+    <string name="button10">Botón 10</string>
+    <string name="button11">Botón 11</string>
+    <string name="button12">Botón 12</string>
+    <string name="button13">Botón 13</string>
+    <string name="button14">Botón 14</string>
+    <string name="button15">Botón 15</string>
+    <string name="button16">Botón 16</string>
+    <string name="button17">Botón 17</string>
+    <string name="button18">Botón 18</string>
+
+    <string name="act1btn1">Botón 1</string>
+    <string name="act1btn2">Botón 2</string>
+    <string name="act1btn3">Botón 3</string>
+
+    <string name="act4btn1">Extras</string>
+    <string name="act4btn2">Flags</string>
+    <string name="act4btn3">Object</string>
+
+    <string name="goback">Regresar</string>
+
+    <string name="takepicture">Tomar Fotografía</string>
+
+
+
+
+</resources>
